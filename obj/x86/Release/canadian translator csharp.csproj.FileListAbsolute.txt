@@ -1,0 +1,5 @@
+i:\geveritt\my documents\visual studio 2010\Projects\canadian translator csharp\canadian translator csharp\bin\Release\canadian translator csharp.exe
+i:\geveritt\my documents\visual studio 2010\Projects\canadian translator csharp\canadian translator csharp\bin\Release\canadian translator csharp.pdb
+i:\geveritt\my documents\visual studio 2010\Projects\canadian translator csharp\canadian translator csharp\obj\x86\Release\ResolveAssemblyReference.cache
+i:\geveritt\my documents\visual studio 2010\Projects\canadian translator csharp\canadian translator csharp\obj\x86\Release\canadian translator csharp.exe
+i:\geveritt\my documents\visual studio 2010\Projects\canadian translator csharp\canadian translator csharp\obj\x86\Release\canadian translator csharp.pdb
