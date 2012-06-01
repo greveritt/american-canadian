@@ -1,0 +1,8 @@
+# Compiled source #
+###################
+*.exe
+*.dll
+
+# Debugger files #
+##################
+*.pdb
