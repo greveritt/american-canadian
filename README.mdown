@@ -1,6 +1,7 @@
 American to Canadian Translator
-Copyright 2012 Gregory R. Everitt
 =================
+Copyright 2012 Gregory R. Everitt
+-----------------
 
 Promptly translates any string of American English to Canadian English.
 
